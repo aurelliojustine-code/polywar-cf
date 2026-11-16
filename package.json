@@ -1,0 +1,7 @@
+{
+  "name": "polywar-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Server multiplayer PolyWar di Cloudflare Workers (Durable Objects)"
+}
